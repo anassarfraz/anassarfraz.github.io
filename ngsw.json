@@ -1,0 +1,112 @@
+{
+  "configVersion": 1,
+  "timestamp": 1596849013715,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/5-es2015.0e24d6900d35eea3022f.js",
+        "/5-es5.0e24d6900d35eea3022f.js",
+        "/6-es2015.01f8bc8ecc1aaeff6968.js",
+        "/6-es5.01f8bc8ecc1aaeff6968.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.1b3a665312fbf53c59e6.js",
+        "/main-es5.1b3a665312fbf53c59e6.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "/polyfills-es5.9e286f6d9247438cbb02.js",
+        "/runtime-es2015.57655e188b761a801af7.js",
+        "/runtime-es5.57655e188b761a801af7.js",
+        "/styles.370a45c473698035fc85.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/Usman.jpg",
+        "/assets/img/anas.jpeg",
+        "/assets/img/avatar.jpg",
+        "/assets/img/danyal.jpeg",
+        "/assets/img/img_avatar1.png",
+        "/assets/img/location_icon.png",
+        "/assets/img/loginbackground.jpg",
+        "/assets/img/logo.png",
+        "/assets/img/offer.jpg",
+        "/assets/img/vf.jpg",
+        "/loginbackground.cf3f4dc7524b05d9d3b6.jpg",
+        "/offer.e6ebd0ac05232b4ebb58.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/5-es2015.0e24d6900d35eea3022f.js": "9d2e21ecdd509b817ff9b8daec549edb62bd4bb0",
+    "/5-es5.0e24d6900d35eea3022f.js": "21bf6c6ca2bcaea206df9d68e21a2dd68e77e3e7",
+    "/6-es2015.01f8bc8ecc1aaeff6968.js": "e7366d7a42ac5440d3c0fadf90447d0a09a506c9",
+    "/6-es5.01f8bc8ecc1aaeff6968.js": "d8a7ab2e016f3cccfbb8ded56c216367d862c5b5",
+    "/assets/icons/icon-128x128.png": "d6809ff24528c168bd4a8dd9a28bed8b88626ff0",
+    "/assets/icons/icon-144x144.png": "bf73d270834ce37b5f0354542372429b635ebadc",
+    "/assets/icons/icon-152x152.png": "703426fabfee4abed4a1105f38149b397462c700",
+    "/assets/icons/icon-192x192.png": "a87c2b42d8cb84451a76d06daf8d8456eaf986f0",
+    "/assets/icons/icon-384x384.png": "6ba0a0a9cb4e00dda9cadf6cc3ecbf145116364c",
+    "/assets/icons/icon-512x512.png": "90e7c6f9ae0d5f174f3cfe5ca1771328206fc5af",
+    "/assets/icons/icon-72x72.png": "fdbcc3501f4e3c75581fee9a8b219da5160affe9",
+    "/assets/icons/icon-96x96.png": "3fad85c4127d14e45e06167a882aa1f645942bdd",
+    "/assets/img/Usman.jpg": "10c7bc81f9aca33aa67af59638418d9991b5e986",
+    "/assets/img/anas.jpeg": "204aebef0e58e6843e3fbd59dcb8950f019f9214",
+    "/assets/img/avatar.jpg": "428cf63bccdbc32a59bdd76757eeee49914f89e2",
+    "/assets/img/danyal.jpeg": "664c8d15d84832486332bbc3d78bae41924d4137",
+    "/assets/img/img_avatar1.png": "d727b7e95e51e8dc33e80ca1e836de92f50c2b1e",
+    "/assets/img/location_icon.png": "21b26d2b0f2dbc06be66876eb7494799dae0dbd1",
+    "/assets/img/loginbackground.jpg": "71e717c5f118cc286a899b53af6998a07ad944e3",
+    "/assets/img/logo.png": "b8b2e053a39dc88fbee7b84b3fcbcd043ac2ae8f",
+    "/assets/img/offer.jpg": "015dfa40a99d51f8792912a1f3fbda511f139a1b",
+    "/assets/img/vf.jpg": "6a99bfdeb467242d7526804874feecc174cce236",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "1304adbdc5482bb56131ca9973927d255b6c3bc6",
+    "/loginbackground.cf3f4dc7524b05d9d3b6.jpg": "71e717c5f118cc286a899b53af6998a07ad944e3",
+    "/main-es2015.1b3a665312fbf53c59e6.js": "1d99d83c169b9ddc793d4a3cfce8f5d2b2c12737",
+    "/main-es5.1b3a665312fbf53c59e6.js": "f3ae3d9450f0a6f3acde56855e5af43448d57efc",
+    "/manifest.webmanifest": "1bc0c45d2364beda159cbf8f52abd1fdb627242f",
+    "/offer.e6ebd0ac05232b4ebb58.jpg": "015dfa40a99d51f8792912a1f3fbda511f139a1b",
+    "/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/polyfills-es5.9e286f6d9247438cbb02.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "/runtime-es2015.57655e188b761a801af7.js": "dc0a20bd44c1344fd880b0006c7a747112ea5c67",
+    "/runtime-es5.57655e188b761a801af7.js": "2dffb8b4cad32f33f0ef5e38711450b7d19ea736",
+    "/styles.370a45c473698035fc85.css": "d9e81cafe74cd73f5cfde16c1ac78e5ae715d280"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
